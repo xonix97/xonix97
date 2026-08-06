@@ -2,9 +2,7 @@
 <p align="center">Freelance web &amp; Discord-bot developer · React / TypeScript / Node · I ship fast and clean.</p>
 
 <p align="center">
-  <a href="https://xonixdev.tech"><img src="https://img.shields.io/badge/Portfolio-xonix--am14.netlify.app-5865F2?style=for-the-badge"></a>
-  <img src="https://img.shields.io/badge/Hire%20me-Discord%20Bots%20in%2048h-57F287?style=for-the-badge"></a>
-</p>
+  <a href="https://xonixdev.tech"><img src="https://img.shields.io/badge/Portfolio-xonixdev-tech-5865F2?style=for-the-badge"></a>
 
 ---
 
