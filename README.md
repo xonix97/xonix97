@@ -1,4 +1,4 @@
-<!-- refresh -->
+
 # XONIX
 
 <p align="center">
@@ -175,3 +175,4 @@ Shipped with intent.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=111111" />
 </p>
+<!-- refresh -->
