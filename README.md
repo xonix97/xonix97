@@ -1,83 +1,186 @@
-# Hey, I'm Xonix 👋
+# XONIX
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=180&section=header&text=Xonix97&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=XONIX&fontSize=70&fontAlignY=55&color=0D0D0D&fontColor=FFFFFF" />
+</p>
 
-## 🧡 About Me
+<p align="center">
+  <b>Founder & Indie Developer</b><br>
+  Building native software, developer tools, and interactive systems.
+</p>
 
-I'm **Xonix**, a developer who loves building cool things from scratch.
-
-- 🔥 Creating software, tools, and experiments
-- 💻 Interested in **Rust, JavaScript, Python, C++, and AI**
-- ⚙️ Building developer tools and creative projects
-- 🎮 Game dev enthusiast
-- 🐧 Linux + customization enjoyer
-- 🎨 Obsessed with clean UI and orange aesthetics
-
-> "Build things people remember."
-
----
-
-## 🚀 Current Projects
-
-### ⚒️ Anvil
-A developer-focused tool built from the ground up.
-
-> My attempt at creating something powerful, fast, and beautiful.
-
-### 🤖 AI Experiments
-Exploring:
-- AI workflows
-- Local models
-- Developer assistants
-- Agent-based tools
-
-### 🎮 Game Development
-Experimenting with:
-- Unreal Engine
-- Godot
-- Java/LWJGL
+<p align="center">
+  <a href="https://xonixdev.tech">
+    <img src="https://img.shields.io/badge/Website-xonixdev.tech-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://github.com/xonix97">
+    <img src="https://img.shields.io/badge/GitHub-xonix97-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## Assorted Work
 
-### Languages
-![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust)
-![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=cplusplus)
+<table>
+<tr>
+<td width="50%">
 
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
+### 01 — ANVIL
+
+**Native engineering workspace**
+
+`Active build · pre-alpha`
+
+Windows-native IDE.
+
+Built with:
+
+
+C++20
+Win32
+WebView2
+React
+Monaco
+CMake
+
+
+</td>
+
+<td width="50%">
+
+### 02 — AAIO Workspace
+
+**Native project workspace**
+
+`Active build · v0.2.5`
+
+Local-first AI workspace.
+
+Built with:
+
+
+Rust
+Tauri 2
+Next.js
+SQLite
+Monaco
+
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 03 — slipstream
+
+**Native code editor**
+
+`M0 · prototype`
+
+GPU-focused editor research.
+
+
+Rust
+wgpu
+Cargo
+
+
+</td>
+
+<td>
+
+### 04 — XonixOS
+
+**Interactive desktop simulation**
+
+`Local build · exploratory`
+
+
+React 19
+TypeScript
+Vite
+Framer Motion
+
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 05 — Serene Drive
+
+**Unreal driving vertical slice**
+
+`Development`
+
+
+Unreal Engine 5.8
+C++
+Chaos Vehicles
+Niagara
+
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## Engineering Principles
 
-<img src="https://github-readme-stats.vercel.app/api?username=xonix97&show_icons=true&theme=dark&hide_border=true&title_color=ff8c00&icon_color=ff8c00" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xonix97&theme=dark&hide_border=true&ring=ff8c00&fire=ff8c00" />
+Local-first where it matters.
+Native where it counts.
+Small enough to understand.
 
----
-
-## 🌐 Find Me
-
-🌍 Website: https://xonixdev.tech  
-🐙 GitHub: https://github.com/xonix97  
-📧 Email: hi@xonixdev.tech  
 
 ---
 
-## 🧡 Fun Facts
+## Stack
 
-- I like turning random ideas into actual projects
-- I spend way too much time customizing my setup
-- Orange is basically my brand color
-- I believe software should feel as good as it works
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,rust,ts,react,tauri,python,java,cmake,git,linux,unreal" />
+</p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=100&section=footer" />
+## GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=xonix97&show_icons=true&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xonix97&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## Currently Building
+
+
+ANVIL
+AAIO Workspace
+Native tooling
+AI workflows
+Developer experiences
+
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=xonix97&style=for-the-badge&color=111111" />
+</p>
+
+<p align="center">
+Built from scratch.
+<br>
+Shipped with intent.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D0D0D" />
+</p>
