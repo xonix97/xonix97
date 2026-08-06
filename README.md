@@ -1,7 +1,7 @@
 # XONIX
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=XONIX&fontSize=70&fontAlignY=55&color=0D0D0D&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=XONIX&fontSize=72&fontAlignY=55&color=111111&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -22,32 +22,29 @@
 
 ## Assorted Work
 
-<table>
-<tr>
-<td width="50%">
-
 ### 01 — ANVIL
 
 **Native engineering workspace**
 
 `Active build · pre-alpha`
 
-Windows-native IDE.
+A Windows-native IDE built in C++20.
 
-Built with:
+Architecture:
 
-
+```txt
 C++20
 Win32
 WebView2
 React
-Monaco
+Monaco Editor
 CMake
+```
 
+Repository →  
+https://github.com/xonix97/anvil
 
-</td>
-
-<td width="50%">
+---
 
 ### 02 — AAIO Workspace
 
@@ -55,23 +52,19 @@ CMake
 
 `Active build · v0.2.5`
 
-Local-first AI workspace.
+A local-first AI workspace.
 
-Built with:
+Architecture:
 
-
+```txt
 Rust
 Tauri 2
 Next.js
 SQLite
-Monaco
+Monaco Editor
+```
 
-
-</td>
-</tr>
-
-<tr>
-<td>
+---
 
 ### 03 — slipstream
 
@@ -79,17 +72,18 @@ Monaco
 
 `M0 · prototype`
 
-GPU-focused editor research.
+A performance-focused editor experiment.
 
+Architecture:
 
+```txt
 Rust
 wgpu
 Cargo
+GPU rendering
+```
 
-
-</td>
-
-<td>
+---
 
 ### 04 — XonixOS
 
@@ -97,18 +91,18 @@ Cargo
 
 `Local build · exploratory`
 
+A desktop environment built for the web.
 
+Architecture:
+
+```txt
 React 19
 TypeScript
 Vite
 Framer Motion
+```
 
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
+---
 
 ### 05 — Serene Drive
 
@@ -116,58 +110,54 @@ Framer Motion
 
 `Development`
 
+A physics-focused driving experiment.
 
+Architecture:
+
+```txt
 Unreal Engine 5.8
 C++
 Chaos Vehicles
 Niagara
-
-
-</td>
-</tr>
-</table>
+```
 
 ---
 
 ## Engineering Principles
 
-
+```txt
 Local-first where it matters.
 Native where it counts.
 Small enough to understand.
-
-
----
-
-## Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,rust,ts,react,tauri,python,java,cmake,git,linux,unreal" />
-</p>
+```
 
 ---
 
-## GitHub Activity
+## Technologies
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xonix97&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xonix97&hide_border=true&theme=transparent" />
+<img src="https://skillicons.dev/icons?i=cpp,rust,ts,react,tauri,python,java,cmake,git,linux,unreal&perline=11" />
 </p>
 
 ---
 
-## Currently Building
+## Activity
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xonix97&theme=github-compact&hide_border=true&area=true" />
+</p>
 
-ANVIL
-AAIO Workspace
-Native tooling
-AI workflows
-Developer experiences
+---
 
+## Currently Exploring
+
+```txt
+Native applications
+AI tooling
+Developer workflows
+Low-level systems
+Interactive experiences
+```
 
 ---
 
@@ -182,5 +172,5 @@ Shipped with intent.
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D0D0D" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=111111" />
 </p>
